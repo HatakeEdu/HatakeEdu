@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m @HatakeEdu
+- 👋 Hi, I’m **@HatakeEdu**
 - 🕶 my contact email is hatakeedu2007@gmail.com
 - 👀 I’m interested in In creating extremely simple games, as I am a beginner in the area of games
 - 🌱 I’m currently learning JAVA/HTML5
