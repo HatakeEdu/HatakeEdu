@@ -2,7 +2,7 @@
 - 👋 Hi, I’m **@HatakeEdu**
 - 🕶 my contact email is [Email](hatakeedu2007@gmail.com)
 - 👀 I’m interested in In creating extremely simple games, as I am a beginner in the area of games
-- 🌱 I’m currently learning JAVA/HTML5
+- 🌱 I’m currently learning JAVA/HTML5/SCRATCH
 
 <!---
 HatakeEdu/HatakeEdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
